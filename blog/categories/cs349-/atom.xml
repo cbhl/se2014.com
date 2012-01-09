@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[se2014.com]]></title>
-  <link href="http://se2014.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: cs349, | se2014.com]]></title>
+  <link href="http://se2014.com/blog/categories/cs349-/atom.xml" rel="self"/>
   <link href="http://se2014.com/"/>
   <updated>2012-01-09T03:24:28+00:00</updated>
   <id>http://se2014.com/</id>
