@@ -4,7 +4,7 @@
   <title><![CDATA[Category: se380 | se2014.com]]></title>
   <link href="http://se2014.com/blog/categories/se380/atom.xml" rel="self"/>
   <link href="http://se2014.com/"/>
-  <updated>2012-01-09T03:48:41+00:00</updated>
+  <updated>2012-01-09T04:02:52+00:00</updated>
   <id>http://se2014.com/</id>
   <author>
     <name><![CDATA[se2014.com]]></name>
@@ -20,7 +20,7 @@
     <id>http://se2014.com/blog/2012/01/09/assignment-due-dates</id>
     <content type="html"><![CDATA[<p>CS 349 Exam Question Submission: Ongoing ( <a href="http://www.student.cs.uwaterloo.ca/~cs349/w12/schedule.shtml">See Schedule</a> )</p>
 
-<p>CS 349: 10 pm Sunday</p>
+<p>SE 350: Lab deliverables and due dates are TBA</p>
 
 <h2>January</h2>
 
@@ -31,12 +31,15 @@
 
 <ul>
 <li> Wed 18: CS 341 Assignment 1 (5 pm)</li>
+<li> Thu 19: SE 350 Course Book Group Deadline</li>
 </ul>
 </li>
 <li>22
 
 <ul>
+<li> SE 380 Lab 1</li>
 <li> Sun 22: CS 349 Assignment 1 (10 pm)</li>
+<li> Wed 25: SE 350 Quiz 1</li>
 <li> Wed Feb 1: CS 341 Assignment 2 (5 pm)</li>
 </ul>
 </li>
@@ -49,17 +52,25 @@
 <li>5
 
 <ul>
+<li> SE 380 Lab 2</li>
 <li> Sun 5: CS 349 Assignment 2 (10 pm)</li>
 </ul>
 </li>
-<li>12</li>
+<li>12
+
+<ul>
+<li> Wed 15: SE 350 Quiz 2</li>
+</ul>
+</li>
 <li>19</li>
 <li>26
 
 <ul>
+<li> SE 380 Lab 3</li>
 <li> Sun 26: CS 349 Assignment 3 (10 pm)</li>
-<li> Tue 28: CS 341 Midterm (8-9:50 pm, M3 1006; alternate session 6-8pm)</li>
+<li> Tue 28: CS 341 Midterm (8-9:50 pm, M3 1006, alternate session 6-8pm)</li>
 <li> Wed 29: CS 341 Assignment 3 (5 pm)</li>
+<li> Wed 29: SE 380 Midterm</li>
 </ul>
 </li>
 </ul>
@@ -72,6 +83,8 @@
 <li>11
 
 <ul>
+<li> SE 380 Lab 4</li>
+<li> Wed 14: SE 350 Quiz 3</li>
 <li> Wed 14: CS 341 Assignment 4 (5 pm)</li>
 </ul>
 </li>
@@ -84,6 +97,8 @@
 <li>25
 
 <ul>
+<li> SE 380 Lab 5</li>
+<li> Wed 28: SE 350 Quiz 4</li>
 <li> Wed 28: CS 341 Assignment 5 (5 pm)</li>
 </ul>
 </li>
@@ -100,6 +115,9 @@
 </ul>
 </li>
 </ul>
+
+
+<!--    *    Thu 16: SCI 238 Midterm (2:30 - 3:50, PHY 145, in class) -->
 
 ]]></content>
   </entry>
