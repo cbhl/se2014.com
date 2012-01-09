@@ -38,7 +38,7 @@ SE 350: Lab deliverables and due dates are TBA
     *    Sun 26: CS 349 Assignment 3 (10 pm)
     *    Tue 28: CS 341 Midterm (8-9:50 pm, M3 1006, alternate session 6-8pm)
     *    Wed 29: CS 341 Assignment 3 (5 pm)
-    *    Wed 29: SE 380 Midterm
+    *    Wed 29: SE 380 Midterm (5:30-6:50 pm, Room TBD)
 
 ## March ##
 
