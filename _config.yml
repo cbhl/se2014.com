@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://cbhl.github.com/se2014
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://se2014.com
+title: se2014.com
+subtitle: A learning framework for hackers.
+author: se2014.com
 simple_search: http://google.com/search
 description:
 
@@ -58,10 +58,10 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/twitter.ht
 # ----------------------- #
 
 # Github repositories
-github_user:
+github_user: os499
 github_repo_count: 0
-github_show_profile_link: true
-github_skip_forks: true
+github_show_profile_link: false
+github_skip_forks: false
 
 # Twitter
 twitter_user:
