@@ -4,7 +4,7 @@
   <title><![CDATA[se2014.com]]></title>
   <link href="http://se2014.com/atom.xml" rel="self"/>
   <link href="http://se2014.com/"/>
-  <updated>2012-01-09T03:37:18+00:00</updated>
+  <updated>2012-01-09T03:38:00+00:00</updated>
   <id>http://se2014.com/</id>
   <author>
     <name><![CDATA[se2014.com]]></name>
@@ -26,17 +26,32 @@
 <li>1</li>
 <li>8</li>
 <li>15</li>
-<li>22 - CS 349 Assignment 1</li>
+<li>22
+
+<ul>
+<li> CS 349 Assignment 1</li>
+</ul>
+</li>
 </ul>
 
 
 <h2>February</h2>
 
 <ul>
-<li>5 - CS 349 Assignment 2</li>
+<li>5
+
+<ul>
+<li> CS 349 Assignment 2</li>
+</ul>
+</li>
 <li>12</li>
 <li>19</li>
-<li>26 - CS 349 Assignment 3</li>
+<li>26
+
+<ul>
+<li> CS 349 Assignment 3</li>
+</ul>
+</li>
 </ul>
 
 
@@ -45,7 +60,12 @@
 <ul>
 <li>4</li>
 <li>11</li>
-<li>18 - CS 349 Assignment 4</li>
+<li>18
+
+<ul>
+<li> CS 349 Assignment 4</li>
+</ul>
+</li>
 <li>25</li>
 </ul>
 
@@ -53,7 +73,12 @@
 <h2>April</h2>
 
 <ul>
-<li>1 - CS 349 Assignment 5</li>
+<li>1
+
+<ul>
+<li> CS 349 Assignment 5</li>
+</ul>
+</li>
 </ul>
 
 ]]></content>
