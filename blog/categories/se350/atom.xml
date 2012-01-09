@@ -4,7 +4,7 @@
   <title><![CDATA[Category: se350 | se2014.com]]></title>
   <link href="http://se2014.com/blog/categories/se350/atom.xml" rel="self"/>
   <link href="http://se2014.com/"/>
-  <updated>2012-01-09T03:38:00+00:00</updated>
+  <updated>2012-01-09T03:48:41+00:00</updated>
   <id>http://se2014.com/</id>
   <author>
     <name><![CDATA[se2014.com]]></name>
@@ -20,16 +20,24 @@
     <id>http://se2014.com/blog/2012/01/09/assignment-due-dates</id>
     <content type="html"><![CDATA[<p>CS 349 Exam Question Submission: Ongoing ( <a href="http://www.student.cs.uwaterloo.ca/~cs349/w12/schedule.shtml">See Schedule</a> )</p>
 
+<p>CS 349: 10 pm Sunday</p>
+
 <h2>January</h2>
 
 <ul>
 <li>1</li>
 <li>8</li>
-<li>15</li>
+<li>15
+
+<ul>
+<li> Wed 18: CS 341 Assignment 1 (5 pm)</li>
+</ul>
+</li>
 <li>22
 
 <ul>
-<li> CS 349 Assignment 1</li>
+<li> Sun 22: CS 349 Assignment 1 (10 pm)</li>
+<li> Wed Feb 1: CS 341 Assignment 2 (5 pm)</li>
 </ul>
 </li>
 </ul>
@@ -41,7 +49,7 @@
 <li>5
 
 <ul>
-<li> CS 349 Assignment 2</li>
+<li> Sun 5: CS 349 Assignment 2 (10 pm)</li>
 </ul>
 </li>
 <li>12</li>
@@ -49,7 +57,9 @@
 <li>26
 
 <ul>
-<li> CS 349 Assignment 3</li>
+<li> Sun 26: CS 349 Assignment 3 (10 pm)</li>
+<li> Tue 28: CS 341 Midterm (8-9:50 pm, M3 1006; alternate session 6-8pm)</li>
+<li> Wed 29: CS 341 Assignment 3 (5 pm)</li>
 </ul>
 </li>
 </ul>
@@ -59,14 +69,24 @@
 
 <ul>
 <li>4</li>
-<li>11</li>
+<li>11
+
+<ul>
+<li> Wed 14: CS 341 Assignment 4 (5 pm)</li>
+</ul>
+</li>
 <li>18
 
 <ul>
-<li> CS 349 Assignment 4</li>
+<li> Sun 18: CS 349 Assignment 4 (10 pm)</li>
 </ul>
 </li>
-<li>25</li>
+<li>25
+
+<ul>
+<li> Wed 28: CS 341 Assignment 5 (5 pm)</li>
+</ul>
+</li>
 </ul>
 
 
@@ -76,7 +96,7 @@
 <li>1
 
 <ul>
-<li> CS 349 Assignment 5</li>
+<li> Sun 1: CS 349 Assignment 5 (10 pm)</li>
 </ul>
 </li>
 </ul>
