@@ -23,7 +23,10 @@ SE 350: Lab deliverables and due dates are also posted on Learn.
     *    SE 380 Lab 1
     *    Sun 22: CS 349 Assignment 1 (10 pm)
     *    Wed 25: SE 350 Quiz 1
+*   29
+    *    Web Feb 1: SE 380 Lab 1 Report (9 am)
     *    Wed Feb 1: CS 341 Assignment 2 (5 pm)
+    *    Fri Feb 3: SE 380 Prelab 2 (9 am)
 
 ## February ##
 
@@ -32,7 +35,9 @@ SE 350: Lab deliverables and due dates are also posted on Learn.
     *    Sun 5: CS 349 Assignment 2 (10 pm)
     *    Mon 6: SE 350 P1 (8:30 am)
 *   12
+    *    Wed 15: SE 380 Lab 2 Report (9 am)
     *    Wed 15: SE 350 Quiz 2
+    *    Fri 17: SE 280 Prelab 3 (9 am)
 *   19
 *   26
     *    SE 380 Lab 3
@@ -45,6 +50,8 @@ SE 350: Lab deliverables and due dates are also posted on Learn.
 ## March ##
 
 *   4
+    *    Wed 7: SE 380 Lab 3 Report (9 am)
+    *    Fri 9: SE 280 Prelab 4 (9 am)
 *   11
     *    SE 380 Lab 4
     *    Mon 12: SE 350 P2 (8:30 am)
@@ -52,7 +59,9 @@ SE 350: Lab deliverables and due dates are also posted on Learn.
     *    Wed 14: CS 341 Assignment 4 (5 pm)
 *   18
     *    Sun 18: CS 349 Assignment 4 (10 pm)
+    *    Wed 32: SE 380 Lab 4 Report (9 am)
 *   25
+    *    Sun 25: SE 380 Prelab 5 (11:59 pm)
     *    SE 380 Lab 5
     *    Mon 26: SE 350 P3 (8:30 am)
     *    Wed 28: SE 350 Quiz 4
@@ -62,6 +71,7 @@ SE 350: Lab deliverables and due dates are also posted on Learn.
 
 *   1
     *    Sun 1: CS 349 Assignment 5 (10 pm)
+    *    Mon 2: SE 380 Lab 5 Report (9 am)
     *    Mon 2: SE 350 Project Final Report (11:59 pm)
 
 <!--    *    Thu 16: SCI 238 Midterm (2:30 - 3:50, PHY 145, in class) -->
