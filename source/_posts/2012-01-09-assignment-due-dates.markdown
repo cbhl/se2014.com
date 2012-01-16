@@ -11,6 +11,8 @@ CS 349 Exam Question Submission: Ongoing ( [See Schedule](http://www.student.cs.
 
 SE 350: Lab deliverables and due dates are also posted on Learn.
 
+SE 380: Schedule of labs and deliverables posted on the [SE 380 site](https://ece.uwaterloo.ca/~se380/) (See [calendar](https://ece.uwaterloo.ca/~se380/Calendar.html))
+
 
 ## January ##
 
@@ -37,7 +39,7 @@ SE 350: Lab deliverables and due dates are also posted on Learn.
 *   12
     *    Wed 15: SE 380 Lab 2 Report (9 am)
     *    Wed 15: SE 350 Quiz 2
-    *    Fri 17: SE 280 Prelab 3 (9 am)
+    *    Fri 17: SE 380 Prelab 3 (9 am)
 *   19
 *   26
     *    SE 380 Lab 3
@@ -51,7 +53,7 @@ SE 350: Lab deliverables and due dates are also posted on Learn.
 
 *   4
     *    Wed 7: SE 380 Lab 3 Report (9 am)
-    *    Fri 9: SE 280 Prelab 4 (9 am)
+    *    Fri 9: SE 380 Prelab 4 (9 am)
 *   11
     *    SE 380 Lab 4
     *    Mon 12: SE 350 P2 (8:30 am)
