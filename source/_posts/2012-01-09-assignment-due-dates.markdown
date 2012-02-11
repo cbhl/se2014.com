@@ -61,7 +61,7 @@ SE 380: Schedule of labs and deliverables posted on the [SE 380 site](https://ec
     *    Wed 14: CS 341 Assignment 4 (5 pm)
 *   18
     *    Sun 18: CS 349 Assignment 4 (10 pm)
-    *    Wed 32: SE 380 Lab 4 Report (9 am)
+    *    Wed 21: SE 380 Lab 4 Report (9 am)
 *   25
     *    Sun 25: SE 380 Prelab 5 (11:59 pm)
     *    SE 380 Lab 5
