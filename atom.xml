@@ -4,7 +4,7 @@
   <title><![CDATA[se2014.com]]></title>
   <link href="http://se2014.com/atom.xml" rel="self"/>
   <link href="http://se2014.com/"/>
-  <updated>2012-02-11T22:36:18+00:00</updated>
+  <updated>2012-04-05T15:15:54+00:00</updated>
   <id>http://se2014.com/</id>
   <author>
     <name><![CDATA[se2014.com]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[SE 380 Notes Mirror]]></title>
+    <link href="http://se2014.com/blog/2012/04/05/se-380-notes-mirror/"/>
+    <updated>2012-04-05T15:14:00+00:00</updated>
+    <id>http://se2014.com/blog/2012/04/05/se-380-notes-mirror</id>
+    <content type="html"><![CDATA[<ul>
+<li><a href="http://se2014.com/download/Chapter5.pdf">Chapter5.pdf</a></li>
+<li><a href="http://se2014.com/download/Chapter6_scan.pdf">Chapter6_scan.pdf</a></li>
+<li><a href="http://se2014.com/download/Chapter7_scan.pdf">Chapter7_scan.pdf</a></li>
+<li><a href="http://se2014.com/download/Chapter8_scan.pdf">Chapter8_scan.pdf</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Request for Feedback for Academic Rep Meeting #2]]></title>
