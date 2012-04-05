@@ -4,7 +4,7 @@
   <title><![CDATA[Category: se380 | se2014.com]]></title>
   <link href="http://se2014.com/blog/categories/se380/atom.xml" rel="self"/>
   <link href="http://se2014.com/"/>
-  <updated>2012-04-05T15:15:54+00:00</updated>
+  <updated>2012-04-05T15:42:24+00:00</updated>
   <id>http://se2014.com/</id>
   <author>
     <name><![CDATA[se2014.com]]></name>
@@ -18,11 +18,16 @@
     <link href="http://se2014.com/blog/2012/04/05/se-380-notes-mirror/"/>
     <updated>2012-04-05T15:14:00+00:00</updated>
     <id>http://se2014.com/blog/2012/04/05/se-380-notes-mirror</id>
-    <content type="html"><![CDATA[<ul>
-<li><a href="/download/Chapter5.pdf">Chapter5.pdf</a></li>
-<li><a href="/download/Chapter6_scan.pdf">Chapter6_scan.pdf</a></li>
-<li><a href="/download/Chapter7_scan.pdf">Chapter7_scan.pdf</a></li>
-<li><a href="/download/Chapter8_scan.pdf">Chapter8_scan.pdf</a></li>
+    <content type="html"><![CDATA[<!-- * [20120404-1328-sci238-w12.zip](/download/2012/04/20120404-1328-sci238-w12.zip) -->
+
+
+<ul>
+<li><a href="/download/2012/04/20120404-1329-se350-w12.zip">20120404-1329-se350-w12.zip</a></li>
+<li><a href="/download/2012/04/20120404-1334-se380-w12.zip">20120404-1334-se380-w12.zip</a></li>
+<li><a href="/download/2012/04/se380/Chapter5.pdf">Chapter5.pdf</a></li>
+<li><a href="/download/2012/04/se380/Chapter6_scan.pdf">Chapter6_scan.pdf</a></li>
+<li><a href="/download/2012/04/se380/Chapter7_scan.pdf">Chapter7_scan.pdf</a></li>
+<li><a href="/download/2012/04/se380/Chapter8_scan.pdf">Chapter8_scan.pdf</a></li>
 </ul>
 
 ]]></content>
