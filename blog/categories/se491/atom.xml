@@ -4,7 +4,7 @@
   <title><![CDATA[Category: se491 | se2014.com]]></title>
   <link href="http://se2014.com/blog/categories/se491/atom.xml" rel="self"/>
   <link href="http://se2014.com/"/>
-  <updated>2012-04-07T00:57:10+00:00</updated>
+  <updated>2012-04-07T01:18:52+00:00</updated>
   <id>http://se2014.com/</id>
   <author>
     <name><![CDATA[se2014.com]]></name>
@@ -24,7 +24,8 @@ experiences.</p>
 
 <h2>Choosing Groups</h2>
 
-<p>"<em>I think Paul Thagard is a good customer.</em>" -D. Rayside</p>
+<p><em>The difference between marriage and your group is that you can
+divorce a marriage.</em>" -P. Ward</p>
 
 <ul>
 <li>Choosing your group is the key step, will be with them for <strong>1.5
@@ -70,20 +71,16 @@ likely to succeed if you're in different project groups."</li>
 <ul>
 <li>Like roommates - not everyone you're good friends with is someone
 you want to be roommates with</li>
-<li>D. Rayside: "P. Ward says, 'The difference between marriage and
-your group is that you can divorce a marriage.'"
-
-<ul>
 <li>"In 2011, a divorce did happen, but that meant someone
 <em>transferred out of the program</em>."</li>
-</ul>
-</li>
 </ul>
 </li>
 </ul>
 
 
 <h2>Choosing a Project</h2>
+
+<p>"<em>It's fun to brainstorm and come up with ideas.</em>" -A. Voigt</p>
 
 <ul>
 <li>Evaluate ideas wrt. personal goals for the design project
@@ -110,6 +107,8 @@ your group is that you can divorce a marriage.'"
 
 <h2>Having A Customer</h2>
 
+<p>"<em>I think Paul Thagard is a good customer.</em>" -D. Rayside</p>
+
 <ul>
 <li>Start looking for an external customer early
 
@@ -132,6 +131,8 @@ legal
 
 <h2>Project Management</h2>
 
+<p>"<em>There <strong>will</strong> be arguments over decisions.</em>"</p>
+
 <ul>
 <li>Divide project into small and tangible chunks</li>
 <li>"Feature freezes" for bug fixing</li>
@@ -146,27 +147,19 @@ ahead of the game</li>
 </ul>
 </li>
 <li>Consider selecting a team leader
-(<a href="http://en.wikipedia.org/wiki/Benevolent_Dictator_for_Life">BDFL</a>)
-
-<ul>
-<li>Comment: There -will- be arguments over decisions</li>
-</ul>
-</li>
+(<a href="http://en.wikipedia.org/wiki/Benevolent_Dictator_for_Life">BDFL</a>)</li>
 <li>Get mobile apps into market ~1 month early to get feedback</li>
 </ul>
 
 
 <h2>Technical Infrastructure</h2>
 
-<ul>
-<li>Bug Tracking: GitHub</li>
-<li>Automated Build Systems
+<p>"<em>I <strong>will</strong> punish you for not having an automated build system.</em>"
+-D. Rayside</p>
 
 <ul>
-<li>D. Rayside: "I will punish you for not having an automated build
-system."</li>
-</ul>
-</li>
+<li>Bug Tracking: GitHub</li>
+<li>Automated Build Systems</li>
 <li>Test Harnesses / Unit Tests
 
 <ul>
