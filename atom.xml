@@ -4,7 +4,7 @@
   <title><![CDATA[se2014.com]]></title>
   <link href="http://se2014.com/atom.xml" rel="self"/>
   <link href="http://se2014.com/"/>
-  <updated>2012-04-05T15:47:37+00:00</updated>
+  <updated>2012-04-07T00:57:10+00:00</updated>
   <id>http://se2014.com/</id>
   <author>
     <name><![CDATA[se2014.com]]></name>
@@ -12,6 +12,252 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[What I Wish I Knew for the Design Project]]></title>
+    <link href="http://se2014.com/blog/2012/04/06/what-i-wish-i-knew-for-the-design-project/"/>
+    <updated>2012-04-06T19:00:00+00:00</updated>
+    <id>http://se2014.com/blog/2012/04/06/what-i-wish-i-knew-for-the-design-project</id>
+    <content type="html"><![CDATA[<p>Having completed their design projects, the 2012 class of Software
+Engineering gave an informal presentation on Thursday to share their
+experiences.</p>
+
+<h2>Choosing Groups</h2>
+
+<p>&#8220;<em>I think Paul Thagard is a good customer.</em>&#8221; -D. Rayside</p>
+
+<ul>
+<li>Choosing your group is the key step, will be with them for <strong>1.5
+years</strong></li>
+<li>Similar (interests, work ethic, coding styles, language/framework)
+
+<ul>
+<li>&#8220;&#8230; or you&#8217;ll be working by yourself, and there <em>will</em> be
+unhappiness.&#8221;</li>
+</ul>
+</li>
+<li>Technical Electives
+
+<ul>
+<li>If enrolled together, your project will stagnate or suffer</li>
+</ul>
+</li>
+<li>Multiple Approaches
+
+<ul>
+<li>Find people you&#8217;ve worked with before, people who you know you can
+work with</li>
+<li>Defer group formation, have people coalesce around project ideas
+
+<ul>
+<li>&#8220;Don&#8217;t be afraid to work with someone you&#8217;ve never worked with
+before.&#8217;</li>
+</ul>
+</li>
+<li>&#8220;You don&#8217;t get to choose who you work with in industry.&#8221;</li>
+</ul>
+</li>
+<li>YMMV: Significant Others
+
+<ul>
+<li>&#8220;I&#8217;m not sure I&#8217;d want to work with my wife. You know, seeing the
+same person 168 hours a week. Maybe your relationship is more
+likely to succeed if you&#8217;re in different project groups.&#8221;</li>
+</ul>
+</li>
+<li>Analogies
+
+<ul>
+<li>Like roommates - not everyone you&#8217;re good friends with is someone
+you want to be roommates with</li>
+<li>D. Rayside: &#8220;P. Ward says, &#8216;The difference between marriage and
+your group is that you can divorce a marriage.&#8217;&#8221;
+
+<ul>
+<li>&#8220;In 2011, a divorce did happen, but that meant someone
+<em>transferred out of the program</em>.&#8221;</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Choosing a Project</h2>
+
+<ul>
+<li>Evaluate ideas wrt. personal goals for the design project
+
+<ul>
+<li>Research?</li>
+</ul>
+</li>
+<li>It&#8217;s fun to brainstorm and come up with ideas
+
+<ul>
+<li>Take notes; record all ideas when brainstorming</li>
+<li>Don&#8217;t get stuck in this stage forever</li>
+</ul>
+</li>
+<li>Scope: build MVP (Minimal Viable Product) first, then iterate
+
+<ul>
+<li>est. 40 hrs/person for MVP &#8211; any more and it&#8217;s not minimal enough</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Having A Customer</h2>
+
+<ul>
+<li>Start looking for an external customer early
+
+<ul>
+<li>&#8220;Good&#8221; client defines requirements, will use product (daily?)</li>
+<li>Regular (daily/weekly) meetings can be motivating</li>
+</ul>
+</li>
+<li>Be clear about expectations, esp. intellectual property, money,
+legal
+
+<ul>
+<li>Policy 73</li>
+<li>&#8220;Things get more complicated when you go outside the university.&#8221;</li>
+<li>Template IP agreements coming: P. Ward, VeloCity/SSO</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Project Management</h2>
+
+<ul>
+<li>Divide project into small and tangible chunks</li>
+<li>&#8220;Feature freezes&#8221; for bug fixing</li>
+<li>Have meaningful commit messages</li>
+<li>Commit after each bug/feature, NOT after three and a half weeks</li>
+<li>Prioritize: requirements tend to slip each week</li>
+<li>Work over co-op is challenging after 9-hr work day
+
+<ul>
+<li>Groups that -do- work on FYDP during work term reported feeling
+ahead of the game</li>
+</ul>
+</li>
+<li>Consider selecting a team leader
+(<a href="http://en.wikipedia.org/wiki/Benevolent_Dictator_for_Life">BDFL</a>)
+
+<ul>
+<li>Comment: There -will- be arguments over decisions</li>
+</ul>
+</li>
+<li>Get mobile apps into market ~1 month early to get feedback</li>
+</ul>
+
+
+<h2>Technical Infrastructure</h2>
+
+<ul>
+<li>Bug Tracking: GitHub</li>
+<li>Automated Build Systems
+
+<ul>
+<li>D. Rayside: &#8220;I will punish you for not having an automated build
+system.&#8221;</li>
+</ul>
+</li>
+<li>Test Harnesses / Unit Tests
+
+<ul>
+<li>good for refactoring</li>
+</ul>
+</li>
+<li>bring in <a href="http://www.joelonsoftware.com/articles/fog0000000043.html">Joel
+test</a></li>
+<li>Domains
+
+<ul>
+<li>Do NOT use GoDaddy</li>
+<li>Alternatives: NameCheap, Netfirms, Dyn</li>
+</ul>
+</li>
+<li>Email
+
+<ul>
+<li>Google Apps: Free Tier</li>
+<li>Use project-specific email when signing up for stuff
+
+<ul>
+<li>Avoids single point of failure (if you get hit by a bus and
+everything is attached to your email address&#8230;)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Web Hosting
+
+<ul>
+<li>Cloud/VPS: AWS, Prgmr, Linode
+
+<ul>
+<li>Skills and Flexibility</li>
+<li>OpenBSD?</li>
+</ul>
+</li>
+<li>Elastic Beanstalk, App Engine, Heroku
+
+<ul>
+<li>Vendor lock-in</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>SSL
+
+<ul>
+<li>Free certs from cert.startcom.org, www.startssl.com</li>
+</ul>
+</li>
+<li>Be wary with ORM limitations: raw SQL is occasionally better
+
+<ul>
+<li>Does your ORM do <em>LEFT SEMI JOIN</em>?</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Miscellaneous</h2>
+
+<p>&#8220;<em>Here&#8217;s a story - an unprofessional story in a sense - of a wiki that
+lived on a machine in someone&#8217;s office. And that hard drive died.</em>&#8221;
+-D. Rayside</p>
+
+<ul>
+<li>D. Rayside intends to add &#8220;a bit of structure&#8221; to provide &#8220;social
+motivation&#8221; to get students to work on the design project
+
+<ul>
+<li>Each team submits lines and hours, and we take the top and bottom
+and annoit them as &#8220;professionals&#8221; and &#8220;mediocrity&#8221;</li>
+<li>&#8220;I want to keep the data in a programatically convenient form.&#8221;</li>
+</ul>
+</li>
+<li>Historical artifacts available from 2012 class
+
+<ul>
+<li>None from prior years</li>
+</ul>
+</li>
+<li>We will likely have D. Rayside for SE 490</li>
+<li>The ultimate deadline is on symposium day at the end of 4B</li>
+<li>Be enterprising, practical, creative, risk-taking, innovative,
+relevant</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[SE 380 Notes Mirror]]></title>
