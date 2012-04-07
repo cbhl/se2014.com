@@ -14,7 +14,8 @@ experiences.
 Choosing Groups
 ---------------
 
-"*I think Paul Thagard is a good customer.*" -D. Rayside
+*The difference between marriage and your group is that you can
+divorce a marriage.*" -P. Ward
 
 - Choosing your group is the key step, will be with them for **1.5
   years**
@@ -37,13 +38,13 @@ Choosing Groups
 - Analogies
   - Like roommates - not everyone you're good friends with is someone
     you want to be roommates with
-  - D. Rayside: "P. Ward says, 'The difference between marriage and
-    your group is that you can divorce a marriage.'"
-    - "In 2011, a divorce did happen, but that meant someone
-      _transferred out of the program_."
+  - "In 2011, a divorce did happen, but that meant someone
+    _transferred out of the program_."
 
 Choosing a Project
 ------------------
+
+"*It's fun to brainstorm and come up with ideas.*" -A. Voigt
 
 - Evaluate ideas wrt. personal goals for the design project
   - Research?
@@ -55,6 +56,8 @@ Choosing a Project
 
 Having A Customer
 -----------------
+
+"*I think Paul Thagard is a good customer.*" -D. Rayside
 
 - Start looking for an external customer early
   - "Good" client defines requirements, will use product (daily?)
@@ -68,6 +71,8 @@ Having A Customer
 Project Management
 ------------------
 
+"*There **will** be arguments over decisions.*"
+
 - Divide project into small and tangible chunks
 - "Feature freezes" for bug fixing
 - Have meaningful commit messages
@@ -78,15 +83,16 @@ Project Management
     ahead of the game
 - Consider selecting a team leader
   ([BDFL](http://en.wikipedia.org/wiki/Benevolent_Dictator_for_Life))
-  - Comment: There -will- be arguments over decisions
 - Get mobile apps into market ~1 month early to get feedback
 
 Technical Infrastructure
 ------------------------
+
+"*I **will** punish you for not having an automated build system.*"
+-D. Rayside
+
 - Bug Tracking: GitHub
 - Automated Build Systems
-  - D. Rayside: "I will punish you for not having an automated build
-    system."
 - Test Harnesses / Unit Tests
   - good for refactoring
 - bring in [Joel
