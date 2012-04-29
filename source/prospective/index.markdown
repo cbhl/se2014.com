@@ -18,6 +18,19 @@ wait to have you join us on campus.
 This page contains commonly-asked questions from
 first-year students.
 
+#### I heard that there are a lot of Chinese-speaking students on campus. Do I need to know how to speak Chinese to fit in? ####
+
+No. :)
+
+#### I'm not very good at English. Is there help for me at Waterloo? ####
+
+Students who fail the English Language Proficiency
+Test (ELPE) will have further assistance (e.g. 
+workshops, strategy sessions) made available to them.
+
+For more details, visit the University of Waterloo
+website: [http://uwaterloo.ca/english-language-proficiency/english-language-proficiency-examination](http://uwaterloo.ca/english-language-proficiency/english-language-proficiency-examination)
+
 #### What if my question isn't answered here? ####
 
 Unfortunately, orientation leaders aren't allowed to
